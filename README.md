@@ -1,6 +1,6 @@
 ### Reverse Engineer Introduction &amp; Test
 
 
-[## ВВОДНОЕ](./intro/README.md)
+[## ВВОДНОЕ](./intro/)
 
-[## ТЕСТОВОЕ](./test/README.md)
+[## ТЕСТОВОЕ](./test/)
